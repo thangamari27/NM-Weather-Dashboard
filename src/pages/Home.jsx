@@ -4,7 +4,7 @@ import WeatherDisplay from "../components/WeatherDisplay";
 import ErrorMessage from "../components/ErrorMessage";
 import { fetchWeather } from "../api/weatherApi";
 
-const DEFAULT_CITY = "New York"; // Default city
+const DEFAULT_CITY = "Tirunelveli"; // Default city
 
 const Home = () => {
     const [weatherData, setWeatherData] = useState(null);
