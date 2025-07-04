@@ -88,4 +88,4 @@ Contributions are welcome! Feel free to:
 ## 👤 Author
 
 **Thangamari**
-[Portfolio](https://tm-dev-portfolio.web.app/) | [LinkedIn](https://www.linkedin.com/in/thanga-mari-03334126b/) | [you@example.com](mailto:thangamari616@Gmail.com)
+[Portfolio](https://tm-dev-portfolio.web.app/) | [LinkedIn](https://www.linkedin.com/in/thanga-mari-03334126b/) | [Gamil](mailto:thangamari616@Gmail.com)
